@@ -1,4 +1,4 @@
-package com.example.satoruquizzes.satoquiz.exception;
+package com.satoru.satofish.exception;
 
 public class NotFoundException extends RuntimeException {
     public NotFoundException(String message) {

@@ -1,4 +1,4 @@
-package com.example.satoruquizzes.satoquiz.modelmapper;
+package com.satoru.satofish.modelmapper;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
