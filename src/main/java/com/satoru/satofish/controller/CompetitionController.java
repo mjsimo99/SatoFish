@@ -1,6 +1,7 @@
 package com.satoru.satofish.controller;
 
 
+
 import com.satoru.satofish.model.dto.CompetitionDTO;
 import com.satoru.satofish.model.dto.response.CompetitionRespDTO;
 import com.satoru.satofish.service.CompetitionService;
